@@ -1,2 +1,6 @@
+[project]
+name = "tamm-server"
+version = "1.0.0"
+
 [tool.vercel]
 entrypoint = "webhook_server:app"
